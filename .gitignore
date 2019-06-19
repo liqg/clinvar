@@ -23,3 +23,6 @@ variant_summary.txt.gz
 
 ### MacOS ###
 **/.DS_Store
+
+output
+ClinVarFullRelease_00-latest.xml.gz
