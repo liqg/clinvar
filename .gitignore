@@ -6,7 +6,6 @@
 src/*.pyc
 
 # normalize.py is retrieved from another repo
-src/normalize.py
 
 ### R files ###
 src/.RData
